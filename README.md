@@ -209,4 +209,4 @@ proXPN is offered as a full free version with all features and updates included.
 Download proXPN today and experience secure and private browsing like never before!
 
 ---
-**Last updated:** 2026-09-17 19:32:35 UTC
+**Last updated:** 2026-09-17 22:40:14 UTC
